@@ -1,5 +1,5 @@
 ---
-title: Web Elements
+title: Web Elements - MailChimp Example 
 layout: article
 ---
 
