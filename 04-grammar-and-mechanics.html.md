@@ -51,8 +51,8 @@ We use a few different forms of capitalization. Title case capitalizes the first
 
 When writing out an email address or website URL, use all lowercase.
 
-- freddie@mailchimp.com
-- mailchimp.com
+- nick@lookbookhq.com
+- lookbookhq.com
 
 Don't capitalize random words in the middle of sentences. Here are some words that we never capitalize in a sentence. For more, see the [Word List](/16-word-list.html.md).
 
@@ -239,7 +239,7 @@ Question marks go inside quotation marks if they’re part of the quote. Like pe
 
 #### Exclamation points
 
-Use exclamation points sparingly, and never more than one at a time. They’re like high-fives: A well-timed one is great, but too many can be annoying.
+Use exclamation points sparingly, and never more than one at a time. A well-timed one is great, but too many can be annoying.
 
 Exclamation points go inside quotation marks. Like periods and question marks, they go outside parentheses when the parenthetical is part of a larger sentence, and inside parentheses when the parenthetical stands alone.
 
@@ -295,7 +295,7 @@ For more on writing about gender, see [Writing about people](/03-writing-about-p
 
 When quoting someone in a blog post or other publication, use the present tense.
 
-- “Using MailChimp has helped our business grow,” says Jamie Smith.
+- “Using LookBookHQ has helped our business grow,” says Jamie Smith.
 
 #### Names and titles
 
@@ -326,19 +326,19 @@ Capitalize the names of websites and web publications. Don’t italicize.
 
 Avoid spelling out URLs, but when you need to, leave off the http://www.
 
-#### Writing about MailChimp
+#### Writing about LookBookHQ
 
-Our company's legal entity name is "The Rocket Science Group, LLC." Our trade name is "MailChimp." Use "The Rocket Science Group, LLC" only when writing legal documents or contracts. Otherwise, use "MailChimp."
+Our trade name is "LookBookHQ." Use "LookBookHQ."
 
-Always capitalize the first “M” and the “C” in MailChimp.
+Always capitalize the first “L” and the “B” and the "HQ" in LookBookHQ.
 
-Refer to MailChimp as “we,” not “it.”
+Refer to LookBookHQ as “we,” not “it.”
 
-Capitalize the proper names of MailChimp products, features, pages, and tools. When referencing non-trademarked products like Pro, Snap, and Automation, include "MailChimp" in the name on first mention.
+Capitalize the proper names of LookBookHQ products, features, pages, and tools. When referencing non-trademarked products like Recommend, and Target, include "LookBookHQ" in the name on first mention.
 
-- MailChimp Pro
-- MailChimp Snap
-- Inbox Inspector
+- LookBookHQ Recommend
+- LookBookHQ Target
+- Content Experience 
 - Look What You Can Do
 
 #### Writing about other companies
@@ -354,8 +354,6 @@ Refer to a company or product as “it” (not “they”).
 ### Slang and jargon
 
 Write in plain English. If you need to use a technical term, briefly define it so everyone can understand.
-
-- MailChimp's ops team is constantly scaling our servers to make sure our users have a great experience with our products. One way we do this is with shards, or partitions, that help us better horizontally scale our database infrastructure.
 
 ### Text formatting
 
