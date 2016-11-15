@@ -3,7 +3,7 @@ title: TL;DR
 layout: article
 ---
 
-The MailChimp Content Style Guide goes into depth on many subjects. It may be more information than you need. Here are the most important things to know.
+The LookBookHQ Content Style Guide goes into depth on many subjects. It may be more information than you need. Here are the most important things to know.
 
 ## Principles
 
@@ -16,7 +16,7 @@ Good content is:
 
 ## Voice and tone
 
-MailChimp’s voice is:
+LookBookHQ’s voice is:
 
 * Human
 * Familiar
