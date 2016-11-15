@@ -3,7 +3,7 @@ title: Writing Technical Content
 layout: article
 ---
 
-At MailChimp, technical content is mostly written by the technical content team. It appears in the [Knowledge Base](http://kb.mailchimp.com), throughout the app, and in a few other locations. This section will lay out the guiding principles of technical content, discuss the main types of technical content, and outline the process of writing and editing technical articles.
+At LookBookHQ, technical content is written by a verity of people from the Client Experience, Technology and the Product team.  It appears in the client facing Knowledge Base - coming soon. MailChimps Example  [Knowledge Base](http://kb.mailchimp.com) and used internally. This section will layout the guiding principles of technical content, discuss the main types of technical content, and outline the process of writing and editing technical articles.
 
 ## Basics
 
@@ -42,7 +42,7 @@ Consider how many articles are needed and what article types will best describe 
 
 Outline your article, then write a draft. Stay in touch with your subject matter expert and revise as needed for accuracy, consistency, and length.
 
-When you’re happy with a draft, pass it to another technical writer for peer review. Then show it to a lead technical writer for additional review and revisions. For new content or highly complex content, send last draft to your subject matter expert for final approval.
+When you’re happy with a draft, pass it to another technical writer for peer review. Then send last draft to your subject matter expert for final approval.
 
 ### Writing technical content
 
@@ -99,10 +99,10 @@ Technical content uses organization, capitalization, and other formatting to hel
 
 Capitalize proper names of MailChimp products, features, pages, tools, and team names when directly mentioned. In step-by-step instructions, capitalize and italicize navigation and button labels as they appear in the app.
 
-- MailChimp, Mandrill
+- LookBookHQ
 - Campaigns page, Lists page
 - Compliance Team, Billing Team
-- Navigate to the *Automation* page.
+- Navigate to the *Forms* page.
 - Click *Save & Close*.
 
 #### Headings
